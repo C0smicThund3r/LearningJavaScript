@@ -9,6 +9,7 @@ const surname = "Greenhalgh"
 const fullname = forname + " " + surname
 
 console.log(fullname)
+
 const numbers = [
     3,
     7,
