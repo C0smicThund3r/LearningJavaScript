@@ -6,7 +6,7 @@
 const forename = "Scott"
 const surname = "Greenhalgh"
 
-const fullname = forname + " " + surname
+const fullname = forename + " " + surname
 
 console.log(fullname)
 
